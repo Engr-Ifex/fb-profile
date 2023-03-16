@@ -1,0 +1,76 @@
+.o{
+    background-color: white;
+    width: 800px;
+    position: relative;
+    right: -300;
+    bottom: -50;
+}
+body{
+    background-color: black;
+}
+.a{
+    position: relative;
+    left: 200;
+    top: -200;
+}
+.b{
+    position: relative;
+    left: 153;
+    top:-180
+}
+.c{
+    position: relative;
+    top:-160 ;
+    left: -25;
+}
+.d{
+    position: relative;
+    top: -140;
+    left: -56;
+}
+.e{
+    position: relative;
+    top: -120;
+    left: -237;
+}
+.f{
+    position: relative;
+    top: -100;
+    left: -294;
+}
+.g{
+    position: relative;
+    top:-101;
+    left: -295;
+}
+.h{
+    position: relative;
+    top: -100;
+    left:425 ;
+}
+.i{
+    position: relative;
+    top: -101;
+    left: 424;
+}
+.l{
+    position: relative;
+    top: -80;
+    left: 299;
+}
+.j{
+    padding-right:350;
+    position: relative;
+    left: 9;
+    top: -45;
+}
+.k{
+    position: relative;
+    left: 9;
+    top: -30;
+}
+.p{
+    position: relative;
+    left: 9;
+    bottom: -24;
+}
